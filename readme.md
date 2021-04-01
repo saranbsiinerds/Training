@@ -5,3 +5,4 @@ Learned :
 4. Basics of Version Control
 5. Github commands
 6. Linux basic commands
+7. Learning javascript
